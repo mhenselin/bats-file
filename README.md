@@ -1,3 +1,5 @@
+# DO NOT CLONE - just a dev fork
+
 # bats-file
 
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/ztombol/bats-file/master/LICENSE)
